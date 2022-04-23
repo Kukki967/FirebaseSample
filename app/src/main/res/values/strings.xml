@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FirebaseSample</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="change">Change</string>
+
+    <string name="save">Save</string>
+    <string name="user_list">User List</string>
+    <string name="product_list">Product List</string>
+
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+
+    <string name="ok">OK</string>
+
+    <string name="_msg_signUp_failed">Unable create user at a moment. Something Went Wrong !</string>
+    <string name="_msg_signIn_failed">Unable login user at a moment. Something Went Wrong !</string>
+    <string name="_msg_signIn_mismatched">Sign In error</string>
+    <string name="_msg_upload_success">Upload Product</string>
+    <string name="_msg_product_error">Some fields are left empty</string>
+
+
+</resources>
