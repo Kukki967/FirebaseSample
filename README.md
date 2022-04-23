@@ -17,4 +17,4 @@ Features :
 
 
 
-Download demo app here : 
+Download demo app here : https://github.com/Kukki967/FirebaseSample/blob/main/firebase-sample.apk
